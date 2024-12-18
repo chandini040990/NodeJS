@@ -1,0 +1,3 @@
+chandini@Chandinis-MacBook-Air test_package % node app.js
+50
+40
